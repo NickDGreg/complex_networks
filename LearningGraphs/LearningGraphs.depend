@@ -1,0 +1,515 @@
+# depslib dependency file v1.0
+1427907555 source:c:\users\user\documents\atlas\domains\maths\year 2\sem 2\complex networks\learninggraphs\main.cpp
+	<igraph.h>
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph.h
+	"igraph_version.h"
+	"igraph_memory.h"
+	"igraph_error.h"
+	"igraph_random.h"
+	"igraph_progress.h"
+	"igraph_statusbar.h"
+	"igraph_types.h"
+	"igraph_complex.h"
+	"igraph_vector.h"
+	"igraph_matrix.h"
+	"igraph_array.h"
+	"igraph_dqueue.h"
+	"igraph_stack.h"
+	"igraph_heap.h"
+	"igraph_psumtree.h"
+	"igraph_strvector.h"
+	"igraph_vector_ptr.h"
+	"igraph_spmatrix.h"
+	"igraph_sparsemat.h"
+	"igraph_qsort.h"
+	"igraph_constants.h"
+	"igraph_datatype.h"
+	"igraph_iterators.h"
+	"igraph_interface.h"
+	"igraph_constructors.h"
+	"igraph_games.h"
+	"igraph_microscopic_update.h"
+	"igraph_centrality.h"
+	"igraph_paths.h"
+	"igraph_components.h"
+	"igraph_structural.h"
+	"igraph_transitivity.h"
+	"igraph_neighborhood.h"
+	"igraph_topology.h"
+	"igraph_bipartite.h"
+	"igraph_cliques.h"
+	"igraph_layout.h"
+	"igraph_visitor.h"
+	"igraph_community.h"
+	"igraph_conversion.h"
+	"igraph_foreign.h"
+	"igraph_motifs.h"
+	"igraph_operators.h"
+	"igraph_flow.h"
+	"igraph_revolver.h"
+	"igraph_nongraph.h"
+	"igraph_cocitation.h"
+	"igraph_adjlist.h"
+	"igraph_attributes.h"
+	"igraph_blas.h"
+	"igraph_lapack.h"
+	"igraph_arpack.h"
+	"igraph_mixing.h"
+	"igraph_separators.h"
+	"igraph_cohesive_blocks.h"
+	"igraph_eigen.h"
+	"igraph_hrg.h"
+	"igraph_threading.h"
+	"igraph_interrupt.h"
+	"igraph_scg.h"
+	"igraph_matching.h"
+	"igraph_graphlets.h"
+	"igraph_epidemics.h"
+
+1427821802 c:\users\user\desktop\igraph-0.7.1\include\igraph_version.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_memory.h
+	<stdlib.h>
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_error.h
+	<stdarg.h>
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_random.h
+	"igraph_types.h"
+	<stdlib.h>
+	<time.h>
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_types.h
+	"igraph_error.h"
+	<stddef.h>
+	<math.h>
+	<stdio.h>
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_progress.h
+	"igraph_types.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_statusbar.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_complex.h
+	"igraph_types.h"
+
+1398175277 c:\users\user\desktop\igraph-0.7.1\include\igraph_vector.h
+	"igraph_types.h"
+	"igraph_complex.h"
+	<stdint.h>
+	<sys/int_types.h>
+	"igraph_pmt.h"
+	"igraph_vector_type.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_type.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_type.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_type.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_type.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_type.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_vector_pmt.h"
+	"igraph_pmt_off.h"
+
+1398175277 c:\users\user\desktop\igraph-0.7.1\include\igraph_pmt.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_vector_type.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_pmt_off.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_vector_pmt.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_matrix.h
+	"igraph_vector.h"
+	"igraph_pmt.h"
+	"igraph_matrix_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_matrix_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_matrix_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_matrix_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_matrix_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_matrix_pmt.h"
+	"igraph_pmt_off.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_matrix_pmt.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_array.h
+	"igraph_pmt.h"
+	"igraph_array_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_array_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_array_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_array_pmt.h"
+	"igraph_pmt_off.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_array_pmt.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_dqueue.h
+	"igraph_types.h"
+	"igraph_pmt.h"
+	"igraph_dqueue_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_dqueue_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_dqueue_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_dqueue_pmt.h"
+	"igraph_pmt_off.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_dqueue_pmt.h
+
+1398175277 c:\users\user\desktop\igraph-0.7.1\include\igraph_stack.h
+	"igraph_types.h"
+	"igraph_pmt.h"
+	"igraph_stack_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_stack_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_stack_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_stack_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_stack_pmt.h"
+	"igraph_pmt_off.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_stack_pmt.h
+	<stdio.h>
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_heap.h
+	"igraph_pmt.h"
+	"igraph_heap_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_heap_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_heap_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_heap_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_heap_pmt.h"
+	"igraph_pmt_off.h"
+	"igraph_pmt.h"
+	"igraph_heap_pmt.h"
+	"igraph_pmt_off.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_heap_pmt.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_psumtree.h
+	"igraph_vector.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_strvector.h
+	"igraph_vector.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_vector_ptr.h
+	"igraph_vector.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_spmatrix.h
+	"igraph_vector.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_sparsemat.h
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_datatype.h"
+	"igraph_arpack.h"
+	<stdio.h>
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_datatype.h
+	"igraph_types.h"
+	"igraph_vector.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_arpack.h
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_matrix.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_qsort.h
+
+1398175277 c:\users\user\desktop\igraph-0.7.1\include\igraph_constants.h
+	"igraph_types.h"
+	"igraph_datatype.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_iterators.h
+	"igraph_constants.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_interface.h
+	"igraph_types.h"
+	"igraph_datatype.h"
+	"igraph_iterators.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_constructors.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_matrix.h"
+	"igraph_datatype.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_games.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_matrix.h"
+	"igraph_vector.h"
+	"igraph_datatype.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_microscopic_update.h
+	"igraph_constants.h"
+	"igraph_datatype.h"
+	"igraph_iterators.h"
+	"igraph_types.h"
+	"igraph_vector.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_centrality.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_datatype.h"
+	"igraph_iterators.h"
+	"igraph_arpack.h"
+
+1398175277 c:\users\user\desktop\igraph-0.7.1\include\igraph_paths.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_vector_ptr.h"
+	"igraph_matrix.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_components.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_vector_ptr.h"
+	"igraph_datatype.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_structural.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_matrix.h"
+	"igraph_datatype.h"
+	"igraph_iterators.h"
+	"igraph_attributes.h"
+	"igraph_sparsemat.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_attributes.h
+	"igraph_datatype.h"
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_strvector.h"
+	"igraph_vector_ptr.h"
+	"igraph_iterators.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_transitivity.h
+	"igraph_datatype.h"
+	"igraph_constants.h"
+	"igraph_iterators.h"
+
+1398175277 c:\users\user\desktop\igraph-0.7.1\include\igraph_neighborhood.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_topology.h
+	"igraph_constants.h"
+	"igraph_datatype.h"
+	"igraph_types.h"
+	"igraph_vector_ptr.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_bipartite.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_matrix.h"
+	"igraph_datatype.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_cliques.h
+	"igraph_types.h"
+	"igraph_datatype.h"
+	"igraph_vector_ptr.h"
+
+1398175277 c:\users\user\desktop\igraph-0.7.1\include\igraph_layout.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_vector_ptr.h"
+	"igraph_matrix.h"
+	"igraph_datatype.h"
+	"igraph_arpack.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_visitor.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_datatype.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_community.h
+	"igraph_constants.h"
+	"igraph_datatype.h"
+	"igraph_types.h"
+	"igraph_arpack.h"
+	"igraph_vector_ptr.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_conversion.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_datatype.h"
+	"igraph_spmatrix.h"
+	"igraph_matrix.h"
+	"igraph_sparsemat.h"
+	"igraph_attributes.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_foreign.h
+	"igraph_constants.h"
+	"igraph_datatype.h"
+	"igraph_types.h"
+	"igraph_strvector.h"
+	<stdio.h>
+
+1398175277 c:\users\user\desktop\igraph-0.7.1\include\igraph_motifs.h
+	"igraph_types.h"
+	"igraph_datatype.h"
+	"igraph_iterators.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_operators.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_datatype.h"
+	"igraph_vector_ptr.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_flow.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_datatype.h"
+	"igraph_vector_ptr.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_revolver.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_datatype.h"
+	"igraph_adjlist.h"
+	"igraph_matrix.h"
+	"igraph_array.h"
+	"igraph_vector_ptr.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_adjlist.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_datatype.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_nongraph.h
+	"igraph_constants.h"
+	"igraph_matrix.h"
+	"igraph_types.h"
+	"igraph_vector.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_cocitation.h
+	"igraph_types.h"
+	"igraph_matrix.h"
+	"igraph_datatype.h"
+	"igraph_iterators.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_blas.h
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_matrix.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_lapack.h
+	"igraph_vector.h"
+	"igraph_matrix.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_mixing.h
+	"igraph_types.h"
+	"igraph_datatype.h"
+	"igraph_vector.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_separators.h
+	"igraph_constants.h"
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_vector_ptr.h"
+	"igraph_datatype.h"
+	"igraph_iterators.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_cohesive_blocks.h
+	"igraph_datatype.h"
+	"igraph_vector.h"
+	"igraph_vector_ptr.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_eigen.h
+	"igraph_arpack.h"
+	"igraph_lapack.h"
+	"igraph_sparsemat.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_hrg.h
+	"igraph_vector.h"
+	"igraph_vector_ptr.h"
+	"igraph_datatype.h"
+
+1427821803 c:\users\user\desktop\igraph-0.7.1\include\igraph_threading.h
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_interrupt.h
+	"igraph_error.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_scg.h
+	"igraph_types.h"
+	"igraph_vector.h"
+	"igraph_matrix.h"
+	"igraph_sparsemat.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_matching.h
+	"igraph_constants.h"
+	"igraph_datatype.h"
+	"igraph_types.h"
+	"igraph_vector.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_graphlets.h
+	"igraph_datatype.h"
+	"igraph_vector_ptr.h"
+	"igraph_interface.h"
+
+1397570446 c:\users\user\desktop\igraph-0.7.1\include\igraph_epidemics.h
+	"igraph_datatype.h"
+	"igraph_vector.h"
+	"igraph_vector_ptr.h"
+
